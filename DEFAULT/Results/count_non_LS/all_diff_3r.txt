@@ -1,0 +1,520 @@
+### Starting 3-Round Analysis and Automatic Analysis for All p ###
+Limiting memory usage to 30GB.
+
+[1/128] Analyzing p = 0x1...
+  -> Done. Target group expectation sum: 79.125000
+
+[2/128] Analyzing p = 0x2...
+  -> Done. Target group expectation sum: 69.250000
+
+[3/128] Analyzing p = 0x4...
+  -> Done. Target group expectation sum: 69.250000
+
+[4/128] Analyzing p = 0x8...
+  -> Done. Target group expectation sum: 76.125000
+
+[5/128] Analyzing p = 0x10...
+  -> Done. Target group expectation sum: 78.875000
+
+[6/128] Analyzing p = 0x20...
+  -> Done. Target group expectation sum: 69.250000
+
+[7/128] Analyzing p = 0x40...
+  -> Done. Target group expectation sum: 69.250000
+
+[8/128] Analyzing p = 0x80...
+  -> Done. Target group expectation sum: 76.375000
+
+[9/128] Analyzing p = 0x100...
+  -> Done. Target group expectation sum: 79.125000
+
+[10/128] Analyzing p = 0x200...
+  -> Done. Target group expectation sum: 69.250000
+
+[11/128] Analyzing p = 0x400...
+  -> Done. Target group expectation sum: 69.250000
+
+[12/128] Analyzing p = 0x800...
+  -> Done. Target group expectation sum: 76.125000
+
+[13/128] Analyzing p = 0x1000...
+  -> Done. Target group expectation sum: 78.875000
+
+[14/128] Analyzing p = 0x2000...
+  -> Done. Target group expectation sum: 69.250000
+
+[15/128] Analyzing p = 0x4000...
+  -> Done. Target group expectation sum: 69.250000
+
+[16/128] Analyzing p = 0x8000...
+  -> Done. Target group expectation sum: 76.375000
+
+[17/128] Analyzing p = 0x10000...
+  -> Done. Target group expectation sum: 79.125000
+
+[18/128] Analyzing p = 0x20000...
+  -> Done. Target group expectation sum: 69.250000
+
+[19/128] Analyzing p = 0x40000...
+  -> Done. Target group expectation sum: 69.250000
+
+[20/128] Analyzing p = 0x80000...
+  -> Done. Target group expectation sum: 76.125000
+
+[21/128] Analyzing p = 0x100000...
+  -> Done. Target group expectation sum: 78.875000
+
+[22/128] Analyzing p = 0x200000...
+  -> Done. Target group expectation sum: 69.250000
+
+[23/128] Analyzing p = 0x400000...
+  -> Done. Target group expectation sum: 69.250000
+
+[24/128] Analyzing p = 0x800000...
+  -> Done. Target group expectation sum: 76.375000
+
+[25/128] Analyzing p = 0x1000000...
+  -> Done. Target group expectation sum: 79.125000
+
+[26/128] Analyzing p = 0x2000000...
+  -> Done. Target group expectation sum: 69.250000
+
+[27/128] Analyzing p = 0x4000000...
+  -> Done. Target group expectation sum: 69.250000
+
+[28/128] Analyzing p = 0x8000000...
+  -> Done. Target group expectation sum: 76.125000
+
+[29/128] Analyzing p = 0x10000000...
+  -> Done. Target group expectation sum: 78.875000
+
+[30/128] Analyzing p = 0x20000000...
+  -> Done. Target group expectation sum: 69.250000
+
+[31/128] Analyzing p = 0x40000000...
+  -> Done. Target group expectation sum: 69.250000
+
+[32/128] Analyzing p = 0x80000000...
+  -> Done. Target group expectation sum: 76.375000
+
+[33/128] Analyzing p = 0x100000000...
+  -> Done. Target group expectation sum: 79.125000
+
+[34/128] Analyzing p = 0x200000000...
+  -> Done. Target group expectation sum: 69.250000
+
+[35/128] Analyzing p = 0x400000000...
+  -> Done. Target group expectation sum: 69.250000
+
+[36/128] Analyzing p = 0x800000000...
+  -> Done. Target group expectation sum: 76.125000
+
+[37/128] Analyzing p = 0x1000000000...
+  -> Done. Target group expectation sum: 78.875000
+
+[38/128] Analyzing p = 0x2000000000...
+  -> Done. Target group expectation sum: 69.250000
+
+[39/128] Analyzing p = 0x4000000000...
+  -> Done. Target group expectation sum: 69.250000
+
+[40/128] Analyzing p = 0x8000000000...
+  -> Done. Target group expectation sum: 76.375000
+
+[41/128] Analyzing p = 0x10000000000...
+  -> Done. Target group expectation sum: 79.125000
+
+[42/128] Analyzing p = 0x20000000000...
+  -> Done. Target group expectation sum: 69.250000
+
+[43/128] Analyzing p = 0x40000000000...
+  -> Done. Target group expectation sum: 69.250000
+
+[44/128] Analyzing p = 0x80000000000...
+  -> Done. Target group expectation sum: 76.125000
+
+[45/128] Analyzing p = 0x100000000000...
+  -> Done. Target group expectation sum: 78.875000
+
+[46/128] Analyzing p = 0x200000000000...
+  -> Done. Target group expectation sum: 69.250000
+
+[47/128] Analyzing p = 0x400000000000...
+  -> Done. Target group expectation sum: 69.250000
+
+[48/128] Analyzing p = 0x800000000000...
+  -> Done. Target group expectation sum: 76.375000
+
+[49/128] Analyzing p = 0x1000000000000...
+  -> Done. Target group expectation sum: 79.125000
+
+[50/128] Analyzing p = 0x2000000000000...
+  -> Done. Target group expectation sum: 69.250000
+
+[51/128] Analyzing p = 0x4000000000000...
+  -> Done. Target group expectation sum: 69.250000
+
+[52/128] Analyzing p = 0x8000000000000...
+  -> Done. Target group expectation sum: 76.125000
+
+[53/128] Analyzing p = 0x10000000000000...
+  -> Done. Target group expectation sum: 78.875000
+
+[54/128] Analyzing p = 0x20000000000000...
+  -> Done. Target group expectation sum: 69.250000
+
+[55/128] Analyzing p = 0x40000000000000...
+  -> Done. Target group expectation sum: 69.250000
+
+[56/128] Analyzing p = 0x80000000000000...
+  -> Done. Target group expectation sum: 76.375000
+
+[57/128] Analyzing p = 0x100000000000000...
+  -> Done. Target group expectation sum: 79.125000
+
+[58/128] Analyzing p = 0x200000000000000...
+  -> Done. Target group expectation sum: 69.250000
+
+[59/128] Analyzing p = 0x400000000000000...
+  -> Done. Target group expectation sum: 69.250000
+
+[60/128] Analyzing p = 0x800000000000000...
+  -> Done. Target group expectation sum: 76.125000
+
+[61/128] Analyzing p = 0x1000000000000000...
+  -> Done. Target group expectation sum: 78.875000
+
+[62/128] Analyzing p = 0x2000000000000000...
+  -> Done. Target group expectation sum: 69.250000
+
+[63/128] Analyzing p = 0x4000000000000000...
+  -> Done. Target group expectation sum: 69.250000
+
+[64/128] Analyzing p = 0x8000000000000000...
+  -> Done. Target group expectation sum: 76.375000
+
+[65/128] Analyzing p = 0x10000000000000000...
+  -> Done. Target group expectation sum: 79.125000
+
+[66/128] Analyzing p = 0x20000000000000000...
+  -> Done. Target group expectation sum: 69.250000
+
+[67/128] Analyzing p = 0x40000000000000000...
+  -> Done. Target group expectation sum: 69.250000
+
+[68/128] Analyzing p = 0x80000000000000000...
+  -> Done. Target group expectation sum: 76.125000
+
+[69/128] Analyzing p = 0x100000000000000000...
+  -> Done. Target group expectation sum: 78.875000
+
+[70/128] Analyzing p = 0x200000000000000000...
+  -> Done. Target group expectation sum: 69.250000
+
+[71/128] Analyzing p = 0x400000000000000000...
+  -> Done. Target group expectation sum: 69.250000
+
+[72/128] Analyzing p = 0x800000000000000000...
+  -> Done. Target group expectation sum: 76.375000
+
+[73/128] Analyzing p = 0x1000000000000000000...
+  -> Done. Target group expectation sum: 79.125000
+
+[74/128] Analyzing p = 0x2000000000000000000...
+  -> Done. Target group expectation sum: 69.250000
+
+[75/128] Analyzing p = 0x4000000000000000000...
+  -> Done. Target group expectation sum: 69.250000
+
+[76/128] Analyzing p = 0x8000000000000000000...
+  -> Done. Target group expectation sum: 76.125000
+
+[77/128] Analyzing p = 0x10000000000000000000...
+  -> Done. Target group expectation sum: 78.875000
+
+[78/128] Analyzing p = 0x20000000000000000000...
+  -> Done. Target group expectation sum: 69.250000
+
+[79/128] Analyzing p = 0x40000000000000000000...
+  -> Done. Target group expectation sum: 69.250000
+
+[80/128] Analyzing p = 0x80000000000000000000...
+  -> Done. Target group expectation sum: 76.375000
+
+[81/128] Analyzing p = 0x100000000000000000000...
+  -> Done. Target group expectation sum: 79.125000
+
+[82/128] Analyzing p = 0x200000000000000000000...
+  -> Done. Target group expectation sum: 69.250000
+
+[83/128] Analyzing p = 0x400000000000000000000...
+  -> Done. Target group expectation sum: 69.250000
+
+[84/128] Analyzing p = 0x800000000000000000000...
+  -> Done. Target group expectation sum: 76.125000
+
+[85/128] Analyzing p = 0x1000000000000000000000...
+  -> Done. Target group expectation sum: 78.875000
+
+[86/128] Analyzing p = 0x2000000000000000000000...
+  -> Done. Target group expectation sum: 69.250000
+
+[87/128] Analyzing p = 0x4000000000000000000000...
+  -> Done. Target group expectation sum: 69.250000
+
+[88/128] Analyzing p = 0x8000000000000000000000...
+  -> Done. Target group expectation sum: 76.375000
+
+[89/128] Analyzing p = 0x10000000000000000000000...
+  -> Done. Target group expectation sum: 79.125000
+
+[90/128] Analyzing p = 0x20000000000000000000000...
+  -> Done. Target group expectation sum: 69.250000
+
+[91/128] Analyzing p = 0x40000000000000000000000...
+  -> Done. Target group expectation sum: 69.250000
+
+[92/128] Analyzing p = 0x80000000000000000000000...
+  -> Done. Target group expectation sum: 76.125000
+
+[93/128] Analyzing p = 0x100000000000000000000000...
+  -> Done. Target group expectation sum: 78.875000
+
+[94/128] Analyzing p = 0x200000000000000000000000...
+  -> Done. Target group expectation sum: 69.250000
+
+[95/128] Analyzing p = 0x400000000000000000000000...
+  -> Done. Target group expectation sum: 69.250000
+
+[96/128] Analyzing p = 0x800000000000000000000000...
+  -> Done. Target group expectation sum: 76.375000
+
+[97/128] Analyzing p = 0x1000000000000000000000000...
+  -> Done. Target group expectation sum: 79.125000
+
+[98/128] Analyzing p = 0x2000000000000000000000000...
+  -> Done. Target group expectation sum: 69.250000
+
+[99/128] Analyzing p = 0x4000000000000000000000000...
+  -> Done. Target group expectation sum: 69.250000
+
+[100/128] Analyzing p = 0x8000000000000000000000000...
+  -> Done. Target group expectation sum: 76.125000
+
+[101/128] Analyzing p = 0x10000000000000000000000000...
+  -> Done. Target group expectation sum: 78.875000
+
+[102/128] Analyzing p = 0x20000000000000000000000000...
+  -> Done. Target group expectation sum: 69.250000
+
+[103/128] Analyzing p = 0x40000000000000000000000000...
+  -> Done. Target group expectation sum: 69.250000
+
+[104/128] Analyzing p = 0x80000000000000000000000000...
+  -> Done. Target group expectation sum: 76.375000
+
+[105/128] Analyzing p = 0x100000000000000000000000000...
+  -> Done. Target group expectation sum: 79.125000
+
+[106/128] Analyzing p = 0x200000000000000000000000000...
+  -> Done. Target group expectation sum: 69.250000
+
+[107/128] Analyzing p = 0x400000000000000000000000000...
+  -> Done. Target group expectation sum: 69.250000
+
+[108/128] Analyzing p = 0x800000000000000000000000000...
+  -> Done. Target group expectation sum: 76.125000
+
+[109/128] Analyzing p = 0x1000000000000000000000000000...
+  -> Done. Target group expectation sum: 78.875000
+
+[110/128] Analyzing p = 0x2000000000000000000000000000...
+  -> Done. Target group expectation sum: 69.250000
+
+[111/128] Analyzing p = 0x4000000000000000000000000000...
+  -> Done. Target group expectation sum: 69.250000
+
+[112/128] Analyzing p = 0x8000000000000000000000000000...
+  -> Done. Target group expectation sum: 76.375000
+
+[113/128] Analyzing p = 0x10000000000000000000000000000...
+  -> Done. Target group expectation sum: 79.125000
+
+[114/128] Analyzing p = 0x20000000000000000000000000000...
+  -> Done. Target group expectation sum: 69.250000
+
+[115/128] Analyzing p = 0x40000000000000000000000000000...
+  -> Done. Target group expectation sum: 69.250000
+
+[116/128] Analyzing p = 0x80000000000000000000000000000...
+  -> Done. Target group expectation sum: 76.125000
+
+[117/128] Analyzing p = 0x100000000000000000000000000000...
+  -> Done. Target group expectation sum: 78.875000
+
+[118/128] Analyzing p = 0x200000000000000000000000000000...
+  -> Done. Target group expectation sum: 69.250000
+
+[119/128] Analyzing p = 0x400000000000000000000000000000...
+  -> Done. Target group expectation sum: 69.250000
+
+[120/128] Analyzing p = 0x800000000000000000000000000000...
+  -> Done. Target group expectation sum: 76.375000
+
+[121/128] Analyzing p = 0x1000000000000000000000000000000...
+  -> Done. Target group expectation sum: 79.125000
+
+[122/128] Analyzing p = 0x2000000000000000000000000000000...
+  -> Done. Target group expectation sum: 69.250000
+
+[123/128] Analyzing p = 0x4000000000000000000000000000000...
+  -> Done. Target group expectation sum: 69.250000
+
+[124/128] Analyzing p = 0x8000000000000000000000000000000...
+  -> Done. Target group expectation sum: 76.125000
+
+[125/128] Analyzing p = 0x10000000000000000000000000000000...
+  -> Done. Target group expectation sum: 78.875000
+
+[126/128] Analyzing p = 0x20000000000000000000000000000000...
+  -> Done. Target group expectation sum: 69.250000
+
+[127/128] Analyzing p = 0x40000000000000000000000000000000...
+  -> Done. Target group expectation sum: 69.250000
+
+[128/128] Analyzing p = 0x80000000000000000000000000000000...
+  -> Done. Target group expectation sum: 76.375000
+
+--- All analyses completed (Total time: 9.26s) ---
+
+### Final Results: Ranking of Expectation Sum for 'Non-{0,6,9,f}' Group (3-Round) ###
+ Rank   1: p = 0x2                                | 'Other' Group Sum: 26.75000000 ('0,6,9,f' Group Sum: 69.25000000)
+ Rank   2: p = 0x4                                | 'Other' Group Sum: 26.75000000 ('0,6,9,f' Group Sum: 69.25000000)
+ Rank   3: p = 0x20                               | 'Other' Group Sum: 26.75000000 ('0,6,9,f' Group Sum: 69.25000000)
+ Rank   4: p = 0x40                               | 'Other' Group Sum: 26.75000000 ('0,6,9,f' Group Sum: 69.25000000)
+ Rank   5: p = 0x200                              | 'Other' Group Sum: 26.75000000 ('0,6,9,f' Group Sum: 69.25000000)
+ Rank   6: p = 0x400                              | 'Other' Group Sum: 26.75000000 ('0,6,9,f' Group Sum: 69.25000000)
+ Rank   7: p = 0x2000                             | 'Other' Group Sum: 26.75000000 ('0,6,9,f' Group Sum: 69.25000000)
+ Rank   8: p = 0x4000                             | 'Other' Group Sum: 26.75000000 ('0,6,9,f' Group Sum: 69.25000000)
+ Rank   9: p = 0x20000                            | 'Other' Group Sum: 26.75000000 ('0,6,9,f' Group Sum: 69.25000000)
+ Rank  10: p = 0x40000                            | 'Other' Group Sum: 26.75000000 ('0,6,9,f' Group Sum: 69.25000000)
+ Rank  11: p = 0x200000                           | 'Other' Group Sum: 26.75000000 ('0,6,9,f' Group Sum: 69.25000000)
+ Rank  12: p = 0x400000                           | 'Other' Group Sum: 26.75000000 ('0,6,9,f' Group Sum: 69.25000000)
+ Rank  13: p = 0x2000000                          | 'Other' Group Sum: 26.75000000 ('0,6,9,f' Group Sum: 69.25000000)
+ Rank  14: p = 0x4000000                          | 'Other' Group Sum: 26.75000000 ('0,6,9,f' Group Sum: 69.25000000)
+ Rank  15: p = 0x20000000                         | 'Other' Group Sum: 26.75000000 ('0,6,9,f' Group Sum: 69.25000000)
+ Rank  16: p = 0x40000000                         | 'Other' Group Sum: 26.75000000 ('0,6,9,f' Group Sum: 69.25000000)
+ Rank  17: p = 0x200000000                        | 'Other' Group Sum: 26.75000000 ('0,6,9,f' Group Sum: 69.25000000)
+ Rank  18: p = 0x400000000                        | 'Other' Group Sum: 26.75000000 ('0,6,9,f' Group Sum: 69.25000000)
+ Rank  19: p = 0x2000000000                       | 'Other' Group Sum: 26.75000000 ('0,6,9,f' Group Sum: 69.25000000)
+ Rank  20: p = 0x4000000000                       | 'Other' Group Sum: 26.75000000 ('0,6,9,f' Group Sum: 69.25000000)
+ Rank  21: p = 0x20000000000                      | 'Other' Group Sum: 26.75000000 ('0,6,9,f' Group Sum: 69.25000000)
+ Rank  22: p = 0x40000000000                      | 'Other' Group Sum: 26.75000000 ('0,6,9,f' Group Sum: 69.25000000)
+ Rank  23: p = 0x200000000000                     | 'Other' Group Sum: 26.75000000 ('0,6,9,f' Group Sum: 69.25000000)
+ Rank  24: p = 0x400000000000                     | 'Other' Group Sum: 26.75000000 ('0,6,9,f' Group Sum: 69.25000000)
+ Rank  25: p = 0x2000000000000                    | 'Other' Group Sum: 26.75000000 ('0,6,9,f' Group Sum: 69.25000000)
+ Rank  26: p = 0x4000000000000                    | 'Other' Group Sum: 26.75000000 ('0,6,9,f' Group Sum: 69.25000000)
+ Rank  27: p = 0x20000000000000                   | 'Other' Group Sum: 26.75000000 ('0,6,9,f' Group Sum: 69.25000000)
+ Rank  28: p = 0x40000000000000                   | 'Other' Group Sum: 26.75000000 ('0,6,9,f' Group Sum: 69.25000000)
+ Rank  29: p = 0x200000000000000                  | 'Other' Group Sum: 26.75000000 ('0,6,9,f' Group Sum: 69.25000000)
+ Rank  30: p = 0x400000000000000                  | 'Other' Group Sum: 26.75000000 ('0,6,9,f' Group Sum: 69.25000000)
+ Rank  31: p = 0x2000000000000000                 | 'Other' Group Sum: 26.75000000 ('0,6,9,f' Group Sum: 69.25000000)
+ Rank  32: p = 0x4000000000000000                 | 'Other' Group Sum: 26.75000000 ('0,6,9,f' Group Sum: 69.25000000)
+ Rank  33: p = 0x20000000000000000                | 'Other' Group Sum: 26.75000000 ('0,6,9,f' Group Sum: 69.25000000)
+ Rank  34: p = 0x40000000000000000                | 'Other' Group Sum: 26.75000000 ('0,6,9,f' Group Sum: 69.25000000)
+ Rank  35: p = 0x200000000000000000               | 'Other' Group Sum: 26.75000000 ('0,6,9,f' Group Sum: 69.25000000)
+ Rank  36: p = 0x400000000000000000               | 'Other' Group Sum: 26.75000000 ('0,6,9,f' Group Sum: 69.25000000)
+ Rank  37: p = 0x2000000000000000000              | 'Other' Group Sum: 26.75000000 ('0,6,9,f' Group Sum: 69.25000000)
+ Rank  38: p = 0x4000000000000000000              | 'Other' Group Sum: 26.75000000 ('0,6,9,f' Group Sum: 69.25000000)
+ Rank  39: p = 0x20000000000000000000             | 'Other' Group Sum: 26.75000000 ('0,6,9,f' Group Sum: 69.25000000)
+ Rank  40: p = 0x40000000000000000000             | 'Other' Group Sum: 26.75000000 ('0,6,9,f' Group Sum: 69.25000000)
+ Rank  41: p = 0x200000000000000000000            | 'Other' Group Sum: 26.75000000 ('0,6,9,f' Group Sum: 69.25000000)
+ Rank  42: p = 0x400000000000000000000            | 'Other' Group Sum: 26.75000000 ('0,6,9,f' Group Sum: 69.25000000)
+ Rank  43: p = 0x2000000000000000000000           | 'Other' Group Sum: 26.75000000 ('0,6,9,f' Group Sum: 69.25000000)
+ Rank  44: p = 0x4000000000000000000000           | 'Other' Group Sum: 26.75000000 ('0,6,9,f' Group Sum: 69.25000000)
+ Rank  45: p = 0x20000000000000000000000          | 'Other' Group Sum: 26.75000000 ('0,6,9,f' Group Sum: 69.25000000)
+ Rank  46: p = 0x40000000000000000000000          | 'Other' Group Sum: 26.75000000 ('0,6,9,f' Group Sum: 69.25000000)
+ Rank  47: p = 0x200000000000000000000000         | 'Other' Group Sum: 26.75000000 ('0,6,9,f' Group Sum: 69.25000000)
+ Rank  48: p = 0x400000000000000000000000         | 'Other' Group Sum: 26.75000000 ('0,6,9,f' Group Sum: 69.25000000)
+ Rank  49: p = 0x2000000000000000000000000        | 'Other' Group Sum: 26.75000000 ('0,6,9,f' Group Sum: 69.25000000)
+ Rank  50: p = 0x4000000000000000000000000        | 'Other' Group Sum: 26.75000000 ('0,6,9,f' Group Sum: 69.25000000)
+ Rank  51: p = 0x20000000000000000000000000       | 'Other' Group Sum: 26.75000000 ('0,6,9,f' Group Sum: 69.25000000)
+ Rank  52: p = 0x40000000000000000000000000       | 'Other' Group Sum: 26.75000000 ('0,6,9,f' Group Sum: 69.25000000)
+ Rank  53: p = 0x200000000000000000000000000      | 'Other' Group Sum: 26.75000000 ('0,6,9,f' Group Sum: 69.25000000)
+ Rank  54: p = 0x400000000000000000000000000      | 'Other' Group Sum: 26.75000000 ('0,6,9,f' Group Sum: 69.25000000)
+ Rank  55: p = 0x2000000000000000000000000000     | 'Other' Group Sum: 26.75000000 ('0,6,9,f' Group Sum: 69.25000000)
+ Rank  56: p = 0x4000000000000000000000000000     | 'Other' Group Sum: 26.75000000 ('0,6,9,f' Group Sum: 69.25000000)
+ Rank  57: p = 0x20000000000000000000000000000    | 'Other' Group Sum: 26.75000000 ('0,6,9,f' Group Sum: 69.25000000)
+ Rank  58: p = 0x40000000000000000000000000000    | 'Other' Group Sum: 26.75000000 ('0,6,9,f' Group Sum: 69.25000000)
+ Rank  59: p = 0x200000000000000000000000000000   | 'Other' Group Sum: 26.75000000 ('0,6,9,f' Group Sum: 69.25000000)
+ Rank  60: p = 0x400000000000000000000000000000   | 'Other' Group Sum: 26.75000000 ('0,6,9,f' Group Sum: 69.25000000)
+ Rank  61: p = 0x2000000000000000000000000000000  | 'Other' Group Sum: 26.75000000 ('0,6,9,f' Group Sum: 69.25000000)
+ Rank  62: p = 0x4000000000000000000000000000000  | 'Other' Group Sum: 26.75000000 ('0,6,9,f' Group Sum: 69.25000000)
+ Rank  63: p = 0x20000000000000000000000000000000 | 'Other' Group Sum: 26.75000000 ('0,6,9,f' Group Sum: 69.25000000)
+ Rank  64: p = 0x40000000000000000000000000000000 | 'Other' Group Sum: 26.75000000 ('0,6,9,f' Group Sum: 69.25000000)
+ Rank  65: p = 0x8                                | 'Other' Group Sum: 19.87500000 ('0,6,9,f' Group Sum: 76.12500000)
+ Rank  66: p = 0x800                              | 'Other' Group Sum: 19.87500000 ('0,6,9,f' Group Sum: 76.12500000)
+ Rank  67: p = 0x80000                            | 'Other' Group Sum: 19.87500000 ('0,6,9,f' Group Sum: 76.12500000)
+ Rank  68: p = 0x8000000                          | 'Other' Group Sum: 19.87500000 ('0,6,9,f' Group Sum: 76.12500000)
+ Rank  69: p = 0x800000000                        | 'Other' Group Sum: 19.87500000 ('0,6,9,f' Group Sum: 76.12500000)
+ Rank  70: p = 0x80000000000                      | 'Other' Group Sum: 19.87500000 ('0,6,9,f' Group Sum: 76.12500000)
+ Rank  71: p = 0x8000000000000                    | 'Other' Group Sum: 19.87500000 ('0,6,9,f' Group Sum: 76.12500000)
+ Rank  72: p = 0x800000000000000                  | 'Other' Group Sum: 19.87500000 ('0,6,9,f' Group Sum: 76.12500000)
+ Rank  73: p = 0x80000000000000000                | 'Other' Group Sum: 19.87500000 ('0,6,9,f' Group Sum: 76.12500000)
+ Rank  74: p = 0x8000000000000000000              | 'Other' Group Sum: 19.87500000 ('0,6,9,f' Group Sum: 76.12500000)
+ Rank  75: p = 0x800000000000000000000            | 'Other' Group Sum: 19.87500000 ('0,6,9,f' Group Sum: 76.12500000)
+ Rank  76: p = 0x80000000000000000000000          | 'Other' Group Sum: 19.87500000 ('0,6,9,f' Group Sum: 76.12500000)
+ Rank  77: p = 0x8000000000000000000000000        | 'Other' Group Sum: 19.87500000 ('0,6,9,f' Group Sum: 76.12500000)
+ Rank  78: p = 0x800000000000000000000000000      | 'Other' Group Sum: 19.87500000 ('0,6,9,f' Group Sum: 76.12500000)
+ Rank  79: p = 0x80000000000000000000000000000    | 'Other' Group Sum: 19.87500000 ('0,6,9,f' Group Sum: 76.12500000)
+ Rank  80: p = 0x8000000000000000000000000000000  | 'Other' Group Sum: 19.87500000 ('0,6,9,f' Group Sum: 76.12500000)
+ Rank  81: p = 0x80                               | 'Other' Group Sum: 19.62500000 ('0,6,9,f' Group Sum: 76.37500000)
+ Rank  82: p = 0x8000                             | 'Other' Group Sum: 19.62500000 ('0,6,9,f' Group Sum: 76.37500000)
+ Rank  83: p = 0x800000                           | 'Other' Group Sum: 19.62500000 ('0,6,9,f' Group Sum: 76.37500000)
+ Rank  84: p = 0x80000000                         | 'Other' Group Sum: 19.62500000 ('0,6,9,f' Group Sum: 76.37500000)
+ Rank  85: p = 0x8000000000                       | 'Other' Group Sum: 19.62500000 ('0,6,9,f' Group Sum: 76.37500000)
+ Rank  86: p = 0x800000000000                     | 'Other' Group Sum: 19.62500000 ('0,6,9,f' Group Sum: 76.37500000)
+ Rank  87: p = 0x80000000000000                   | 'Other' Group Sum: 19.62500000 ('0,6,9,f' Group Sum: 76.37500000)
+ Rank  88: p = 0x8000000000000000                 | 'Other' Group Sum: 19.62500000 ('0,6,9,f' Group Sum: 76.37500000)
+ Rank  89: p = 0x800000000000000000               | 'Other' Group Sum: 19.62500000 ('0,6,9,f' Group Sum: 76.37500000)
+ Rank  90: p = 0x80000000000000000000             | 'Other' Group Sum: 19.62500000 ('0,6,9,f' Group Sum: 76.37500000)
+ Rank  91: p = 0x8000000000000000000000           | 'Other' Group Sum: 19.62500000 ('0,6,9,f' Group Sum: 76.37500000)
+ Rank  92: p = 0x800000000000000000000000         | 'Other' Group Sum: 19.62500000 ('0,6,9,f' Group Sum: 76.37500000)
+ Rank  93: p = 0x80000000000000000000000000       | 'Other' Group Sum: 19.62500000 ('0,6,9,f' Group Sum: 76.37500000)
+ Rank  94: p = 0x8000000000000000000000000000     | 'Other' Group Sum: 19.62500000 ('0,6,9,f' Group Sum: 76.37500000)
+ Rank  95: p = 0x800000000000000000000000000000   | 'Other' Group Sum: 19.62500000 ('0,6,9,f' Group Sum: 76.37500000)
+ Rank  96: p = 0x80000000000000000000000000000000 | 'Other' Group Sum: 19.62500000 ('0,6,9,f' Group Sum: 76.37500000)
+ Rank  97: p = 0x10                               | 'Other' Group Sum: 17.12500000 ('0,6,9,f' Group Sum: 78.87500000)
+ Rank  98: p = 0x1000                             | 'Other' Group Sum: 17.12500000 ('0,6,9,f' Group Sum: 78.87500000)
+ Rank  99: p = 0x100000                           | 'Other' Group Sum: 17.12500000 ('0,6,9,f' Group Sum: 78.87500000)
+ Rank 100: p = 0x10000000                         | 'Other' Group Sum: 17.12500000 ('0,6,9,f' Group Sum: 78.87500000)
+ Rank 101: p = 0x1000000000                       | 'Other' Group Sum: 17.12500000 ('0,6,9,f' Group Sum: 78.87500000)
+ Rank 102: p = 0x100000000000                     | 'Other' Group Sum: 17.12500000 ('0,6,9,f' Group Sum: 78.87500000)
+ Rank 103: p = 0x10000000000000                   | 'Other' Group Sum: 17.12500000 ('0,6,9,f' Group Sum: 78.87500000)
+ Rank 104: p = 0x1000000000000000                 | 'Other' Group Sum: 17.12500000 ('0,6,9,f' Group Sum: 78.87500000)
+ Rank 105: p = 0x100000000000000000               | 'Other' Group Sum: 17.12500000 ('0,6,9,f' Group Sum: 78.87500000)
+ Rank 106: p = 0x10000000000000000000             | 'Other' Group Sum: 17.12500000 ('0,6,9,f' Group Sum: 78.87500000)
+ Rank 107: p = 0x1000000000000000000000           | 'Other' Group Sum: 17.12500000 ('0,6,9,f' Group Sum: 78.87500000)
+ Rank 108: p = 0x100000000000000000000000         | 'Other' Group Sum: 17.12500000 ('0,6,9,f' Group Sum: 78.87500000)
+ Rank 109: p = 0x10000000000000000000000000       | 'Other' Group Sum: 17.12500000 ('0,6,9,f' Group Sum: 78.87500000)
+ Rank 110: p = 0x1000000000000000000000000000     | 'Other' Group Sum: 17.12500000 ('0,6,9,f' Group Sum: 78.87500000)
+ Rank 111: p = 0x100000000000000000000000000000   | 'Other' Group Sum: 17.12500000 ('0,6,9,f' Group Sum: 78.87500000)
+ Rank 112: p = 0x10000000000000000000000000000000 | 'Other' Group Sum: 17.12500000 ('0,6,9,f' Group Sum: 78.87500000)
+ Rank 113: p = 0x1                                | 'Other' Group Sum: 16.87500000 ('0,6,9,f' Group Sum: 79.12500000)
+ Rank 114: p = 0x100                              | 'Other' Group Sum: 16.87500000 ('0,6,9,f' Group Sum: 79.12500000)
+ Rank 115: p = 0x10000                            | 'Other' Group Sum: 16.87500000 ('0,6,9,f' Group Sum: 79.12500000)
+ Rank 116: p = 0x1000000                          | 'Other' Group Sum: 16.87500000 ('0,6,9,f' Group Sum: 79.12500000)
+ Rank 117: p = 0x100000000                        | 'Other' Group Sum: 16.87500000 ('0,6,9,f' Group Sum: 79.12500000)
+ Rank 118: p = 0x10000000000                      | 'Other' Group Sum: 16.87500000 ('0,6,9,f' Group Sum: 79.12500000)
+ Rank 119: p = 0x1000000000000                    | 'Other' Group Sum: 16.87500000 ('0,6,9,f' Group Sum: 79.12500000)
+ Rank 120: p = 0x100000000000000                  | 'Other' Group Sum: 16.87500000 ('0,6,9,f' Group Sum: 79.12500000)
+ Rank 121: p = 0x10000000000000000                | 'Other' Group Sum: 16.87500000 ('0,6,9,f' Group Sum: 79.12500000)
+ Rank 122: p = 0x1000000000000000000              | 'Other' Group Sum: 16.87500000 ('0,6,9,f' Group Sum: 79.12500000)
+ Rank 123: p = 0x100000000000000000000            | 'Other' Group Sum: 16.87500000 ('0,6,9,f' Group Sum: 79.12500000)
+ Rank 124: p = 0x10000000000000000000000          | 'Other' Group Sum: 16.87500000 ('0,6,9,f' Group Sum: 79.12500000)
+ Rank 125: p = 0x1000000000000000000000000        | 'Other' Group Sum: 16.87500000 ('0,6,9,f' Group Sum: 79.12500000)
+ Rank 126: p = 0x100000000000000000000000000      | 'Other' Group Sum: 16.87500000 ('0,6,9,f' Group Sum: 79.12500000)
+ Rank 127: p = 0x10000000000000000000000000000    | 'Other' Group Sum: 16.87500000 ('0,6,9,f' Group Sum: 79.12500000)
+ Rank 128: p = 0x1000000000000000000000000000000  | 'Other' Group Sum: 16.87500000 ('0,6,9,f' Group Sum: 79.12500000)
+
+All p-values analyzed successfully (No memory limit exceeded)

@@ -1,0 +1,14 @@
+### Starting Round-by-Round Analysis for p=0x1 ###
+
+--- Round 5 Output (r5_perm) ---
+  Expected number of active nibbles NOT in '{0, 9, 6, 15}': 2.00000000
+
+--- Round 4 Output (r4_perm) ---
+  Expected number of active nibbles NOT in '{0, 9, 6, 15}': 4.50000000
+
+--- Round 3 Output (r3_perm) ---
+  Expected number of active nibbles NOT in '{0, 9, 6, 15}': 10.37500000
+
+--- Round 2 Output (r2_perm) ---
+  Expected number of active nibbles NOT in '{0, 9, 6, 15}': 19.27343750
+

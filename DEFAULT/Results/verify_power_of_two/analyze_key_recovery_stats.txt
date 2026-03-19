@@ -1,0 +1,16 @@
+Analyzing key_recovery_stats.txt...
+
+=== Analysis Results ===
+Total Tests: 1002
+Success Count: 1002
+Success Rate: 100.00%
+------------------------------
+Average Remaining Entropy (Average of log2(candidates)):
+Round 1: 2.1827 bits (approx. 2^2.18)
+Round 2: 4.1873 bits (approx. 2^4.19)
+Round 3: 0.4170 bits (approx. 2^0.42)
+Round 4: 0.0000 bits (approx. 2^0.00)
+Round 5: 0.0000 bits (approx. 2^0.00)
+Round 6: 0.0000 bits (approx. 2^0.00)
+Round 7: 0.0000 bits (approx. 2^0.00)
+Round 8: 0.0000 bits (approx. 2^0.00)
