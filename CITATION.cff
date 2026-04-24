@@ -1,0 +1,73 @@
+# RELEASE PROCESS (bump on every archival / DOI cut)
+#   1. Update `version:` to the new release tag (e.g. "1.0.1" for a
+#      post-review revision, "2026.3" to mirror the TCHES issue, etc.).
+#   2. Update `date-released:` to the actual publication / archival
+#      date (YYYY-MM-DD, UTC).
+#   3. When the TCHES DOI is assigned, add an `identifiers:` block
+#      under `preferred-citation:` with
+#         - type: doi
+#           value: 10.xxxx/…
+#      and optionally a second `identifiers:` block at the top level
+#      with the Zenodo / Software Heritage DOI for the artifact itself.
+#   4. Tag the release in git (`git tag vX.Y.Z`) and push the tag
+#      before the archival snapshot is taken, so the snapshot's commit
+#      matches the CITATION.cff version.
+# The committed `version` + `date-released` below are the initial
+# values for the TCHES 2026 Issue 3 artifact-review submission; they
+# will be revised per the steps above once the paper is accepted and
+# the artifact archived.
+cff-version: 1.2.0
+title: "MIFA: An MILP-based Framework for Improving Differential Fault Attacks"
+message: "If you use this artifact, please cite the paper."
+type: software
+version: "1.0.0"
+date-released: "2026-04-23"
+authors:
+  - family-names: Shin
+    given-names: Hanbeom
+  - family-names: Kim
+    given-names: Insung
+  - family-names: Kim
+    given-names: Sunyeop
+  - family-names: Seok
+    given-names: Byoungjin
+  - family-names: Hong
+    given-names: Deukjo
+  - family-names: Sung
+    given-names: Jaechul
+  - family-names: Hong
+    given-names: Seokhie
+  - family-names: Lee
+    given-names: Sangjin
+  - family-names: Lee
+    given-names: Dongjae
+repository-code: "https://github.com/shb115/MIFA"
+url: "https://eprint.iacr.org/2025/2070"
+license: MIT
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Shin
+      given-names: Hanbeom
+    - family-names: Kim
+      given-names: Insung
+    - family-names: Kim
+      given-names: Sunyeop
+    - family-names: Seok
+      given-names: Byoungjin
+    - family-names: Hong
+      given-names: Deukjo
+    - family-names: Sung
+      given-names: Jaechul
+    - family-names: Hong
+      given-names: Seokhie
+    - family-names: Lee
+      given-names: Sangjin
+    - family-names: Lee
+      given-names: Dongjae
+  title: "MIFA: An MILP-based Framework for Improving Differential Fault Attacks"
+  journal: "IACR Transactions on Cryptographic Hardware and Embedded Systems"
+  year: 2026
+  volume: 2026
+  issue: 3
+  notes: "IACR ePrint 2025/2070 — https://eprint.iacr.org/2025/2070"

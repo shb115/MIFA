@@ -1,0 +1,14 @@
+### 8-round key-recovery ###
+NUM_PAIRS 9
+### rk3_keyspace_1 ###
+rk3_keyspace_1 length: 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4
+nk3 == nk[3] : True
+### rk2_keyspace_1 ###
+rk2_keyspace_1 length: 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4
+nk2 == nk[2] : True
+### rk1_keyspace ###
+rk1_keyspace length: 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4
+nk1 == nk[1] : True
+### rk0_keyspace ###
+rk0_keyspace length: 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 8 4 4 4 4
+Time: 0.0013s

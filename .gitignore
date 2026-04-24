@@ -1,0 +1,77 @@
+# ------------------------------------------------------------------
+# Build artefacts (C)
+# ------------------------------------------------------------------
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+
+# Bare executables produced by each cipher's Makefile
+DEFAULT/Codes/key_recovery_attack/simple_key_schedule/key_recovery_attack_6r
+DEFAULT/Codes/key_recovery_attack/simple_key_schedule/key_recovery_attack_7r
+DEFAULT/Codes/key_recovery_attack/simple_key_schedule/key_recovery_attack_8r
+DEFAULT/Codes/key_recovery_attack/rotating_key_schedule/rotating_attack
+BAKSHEESH/Codes/key_recovery_attack/baksheesh_attack
+
+# Compiled binaries from reference_code (both ciphers)
+**/Codes/reference_code/**/default
+**/Codes/reference_code/**/default_reduced
+**/Codes/reference_code/**/default_rotating_reduced
+**/Codes/reference_code/**/baksheesh
+**/Codes/reference_code/**/baksheesh_reduced
+**/Codes/reference_code/**/a.out
+
+# Gurobi log file (gp.Env('gurobi.log')) written into the working
+# directory when a MILP script runs.
+gurobi.log
+
+# Common virtualenv / conda-env directory names a reviewer may create
+# next to the repo.  Directory-only patterns so a file named env.py /
+# env.json is not accidentally ignored.
+env/
+**/env/
+.env/
+**/.env/
+venv/
+**/venv/
+.venv/
+**/.venv/
+
+# ------------------------------------------------------------------
+# Python cache
+# ------------------------------------------------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ------------------------------------------------------------------
+# Paper reference copy — not published with the artefact
+# ------------------------------------------------------------------
+Reference/
+
+# ------------------------------------------------------------------
+# Scratch / run logs
+# ------------------------------------------------------------------
+nohup.out
+*.log
+
+# stats_diff_check.py default out directory (keep it local to the script)
+DEFAULT/Codes/count_non_LS/stats_diff_output/
+
+# reproduce.sh output tree (regenerated per-run; the committed
+# DEFAULT/Results/ and BAKSHEESH/Results/ stay intact)
+reproduce_output/
+
+# ------------------------------------------------------------------
+# OS / editor cruft
+# ------------------------------------------------------------------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+.vs/
+.ipynb_checkpoints/

@@ -1,0 +1,20 @@
+### 8-round key-recovery ###
+NUM_PAIRS 2
+### r1_keyspace ###
+mk in r1_keyspace
+r1_keyspace length: 8 8 4 4 4 16 8 8 4 4 8 4 4 4 4 8 8 8 8 4 8 8 8 8 8 4 4 8 8 4 8 8
+mk in r2_keyspace
+r2_keyspace length: 64 1024 64 32 512 512 256 512
+mk in r3_keyspace
+r3_keyspace length: 16384 786432
+mk in r4_keyspace
+r4_keyspace length: 1
+mk in r5_keyspace
+r5_keyspace length: 1
+mk in r6_keyspace
+r6_keyspace length: 1
+mk in r7_keyspace
+r7_keyspace length: 1
+mk in r8_keyspace
+r8_keyspace length: 1
+Time: 1189.0151s

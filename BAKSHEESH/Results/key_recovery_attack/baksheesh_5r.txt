@@ -1,0 +1,14 @@
+### 5-round key-recovery ###
+NUM_PAIRS 10
+### r1_keyspace ###
+mk in r1_keyspace
+r1_keyspace length: 2 2 2 2 2 2 4 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+mk in r2_keyspace
+r2_keyspace length: 1
+mk in r3_keyspace
+r3_keyspace length: 1
+mk in r4_keyspace
+r4_keyspace length: 1
+mk in r5_keyspace
+r5_keyspace length: 1
+Time: 0.5602s
